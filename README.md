@@ -1,2 +1,2 @@
-# Project-Sougata
+# Netflix landing page clone
 My first repositary
